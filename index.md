@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to HeMinWang123 GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/heminwang123/heminwang123.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+In the past few years, I have mainly developed software for users in mainland China. This time I plan to break through myself and try to develop world-class software. I personally think that the next development direction of the Internet is Metaverse. NFT and GAMEFI are indispensable. I hope to join your company and participate in this revolution. To be honest, my biggest shortcoming at the moment is that my English ability is not strong enough, but through work in your company and my hard work, I quickly catch up. At present, my salary request is not very high. This does not mean that I am not professional enough, but that I'm sincere, I will always strive to become the most powerful programmer in your company, and then I will ask for a higher salary. I hope your company will give me a chance to do my best in your company.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/heminwang123/heminwang123.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Developed 10+ websites and applications to analyze and process data for different clients using WordPress and modern JavaScript frameworks such as React.js, Vue.js.
+- Ensure applications security and ability to interact with multiple APIs and databases.
+- Work closely with app development team including project and product manager, developers, and QA to determine problems, testing methods, and best practices.
+- Delivered performance-driven and user-centric websites that met all business requirements. 
+- Created a store in zbj.com, developed 10+ chess-card games, 5+ cryptocurrency mobile apps for China Motherland clients.
+- Issued several tokens on Tron Network using by smart contract.
